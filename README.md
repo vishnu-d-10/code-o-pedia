@@ -1,0 +1,6 @@
+- 👋🏻 Hello, I'm Vishnu D
+- 🎓 Graduated with a Bachelor's of Engineering in Electronics and Communication Engineering from PSG College of Technology. (May 2020)
+- 🏙️ Native Andhra Pradesh, current resident of Tamil Nadu, with a passion for seeking new things.
+- 📊 Started my journey in exploration towards Data Analytics and Machine learning. Understanding the real-life problems in the world with data, gaining insights, and providing solutions.
+- 🎮 In my free time, you can find me binge-watching or playing video games, or reading fiction novels
+- ☮️ Experiences have made me learn a lot about myself and I am eager to explore a lot more. I always hope for excitement in the work I do and some peace in life.
