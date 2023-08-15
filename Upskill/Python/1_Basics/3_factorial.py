@@ -14,5 +14,4 @@ def factorial(a):
             a = a - 1
         return fact
     
-print("Factorial of {0} is {1}" .format(num,
-                                            factorial(num)))
+print("Factorial of {0} is {1}" .format(num,factorial(num)))
